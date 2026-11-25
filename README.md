@@ -1,4 +1,4 @@
-# Marketing Spend vs Revenue Analysis
+# Marketing Channel Effectiveness and Sales Prediction
 
 An end-to-end regression case study analyzing the relationship between advertising expenditure across TV, Radio, and Newspaper channels and product Sales using the ISLR Advertising dataset.
 
